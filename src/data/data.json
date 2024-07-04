@@ -1739,6 +1739,342 @@
       "name": "Impreza G4",
       "code": "234880",
       "model": ">JLy# G4 GJ3005007"
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Impreza",
+      "code": "235046",
+      "model": "GE7"
+    },
+    {
+      "bodypart": "IGNITION&KEY",
+      "name": "Fit",
+      "code": "235152",
+      "model": "GE71"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Fit",
+      "code": "235152",
+      "model": "YA50:"
+    },
+    {
+      "bodypart": "DOOR MiRROR",
+      "name": "Fit",
+      "code": "24592",
+      "model": "YA501"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Fit",
+      "code": "24592",
+      "model": "YA501"
+    },
+    {
+      "bodypart": "FENDER FENDER",
+      "name": "Exiga",
+      "code": "241129",
+      "model": "YA501"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "EXiga",
+      "code": "241129",
+      "model": "YA401S"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Exiga",
+      "code": "241190",
+      "model": "YA4019"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Exiga",
+      "code": "24498",
+      "model": "YA401:"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Exiga",
+      "code": "241323",
+      "model": "ACR55"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Exiga",
+      "code": "241641",
+      "model": "ACR55"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Exiga",
+      "code": "241641",
+      "model": "YA401"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Exiga",
+      "code": "241292",
+      "model": "ACR55"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Exiga",
+      "code": "241292",
+      "model": "ACR551"
+    },
+    {
+      "bodypart": "BUMPER",
+      "name": "Estima",
+      "code": "241653",
+      "model": "ACR55."
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Estima",
+      "code": "241220",
+      "model": "ACR55"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Estima",
+      "code": "241220",
+      "model": "MNE51051"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Estima",
+      "code": "241220",
+      "model": "NE511002"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Estima",
+      "code": "241220",
+      "model": "NE511096"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Estima",
+      "code": "241655",
+      "model": "NE51290"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Estima",
+      "code": "241245",
+      "model": "NE5129"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Estii",
+      "code": "24657",
+      "model": "ACR5O ACR5C"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Estima",
+      "code": "24657",
+      "model": "GE7"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Estima",
+      "code": "24592",
+      "model": "GE7"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "24592",
+      "model": "ACR55"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241141",
+      "model": "ACR50"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241141",
+      "model": "ACR50"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "24694",
+      "model": "ACR5C"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241292",
+      "model": "GD"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Elgrand",
+      "code": "241641",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241641",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241323",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Elgrand",
+      "code": "24498",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Elgrand",
+      "code": "241190",
+      "model": null
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Elgrand",
+      "code": "241190",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Demio",
+      "code": "24572",
+      "model": null
+    },
+    {
+      "bodypart": "IGNITION &KEY",
+      "name": "Demio",
+      "code": "24572",
+      "model": null
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Demio",
+      "code": "241783",
+      "model": null
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Demio",
+      "code": "241783",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Demio",
+      "code": "241783",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Blante",
+      "code": "24.1783",
+      "model": null
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Blante",
+      "code": "241774",
+      "model": null
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Blante",
+      "code": "241836",
+      "model": null
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM F",
+      "name": "Axela",
+      "code": "241836",
+      "model": null
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Axela",
+      "code": "24956",
+      "model": null
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Atenza",
+      "code": "234909",
+      "model": null
+    },
+    {
+      "bodypart": "IGNITION & KEY",
+      "name": "Atenza",
+      "code": "234909",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER FRONT BUMPER",
+      "name": "Atenza",
+      "code": "241474",
+      "model": null
+    },
+    {
+      "bodypart": "IGNITION&KEY",
+      "name": "Atenza",
+      "code": "241153",
+      "model": null
+    },
+    {
+      "bodypart": "IGNITION &KEY",
+      "name": "Atenza",
+      "code": "241153",
+      "model": null
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Atenza",
+      "code": "241153",
+      "model": null
+    },
+    {
+      "bodypart": "DOOR MIRROR",
+      "name": "Atenza",
+      "code": "241436",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Accord",
+      "code": "241214",
+      "model": null
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Accord",
+      "code": "241214",
+      "model": null
+    },
+    {
+      "bodypart": "IGNITION &KEY",
+      "name": "Accord",
+      "code": "241214",
+      "model": null
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Accord",
+      "code": "241214",
+      "model": null
     }
   ]
 }

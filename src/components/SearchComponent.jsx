@@ -11,7 +11,6 @@ const SearchComponent = () => {
   }, []);
 
   const handleSearch = (e) => {
-    console.log("Estoy aca");
     const value = e.target.value;
     setQuery(value);
 
