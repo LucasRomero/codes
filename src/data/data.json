@@ -1,0 +1,1072 @@
+{
+  "codes": [
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Premacy",
+      "code": "24-1649",
+      "model": "CWEFW-122271"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Premacy",
+      "code": "24.1649",
+      "model": "CWEFW-122271"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Premacy",
+      "code": "24-1533",
+      "model": "CWEFW-130506"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Premacy",
+      "code": "24-1533",
+      "model": "CEFW-130506"
+    },
+    {
+      "bodypart": "BEAM",
+      "name": "Premacy",
+      "code": "24-1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Premacy",
+      "code": "24.1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Premacy",
+      "code": "24.1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Premacy",
+      "code": "24-1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Skyline",
+      "code": "24-1018",
+      "model": "NV26-300712"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Skyline",
+      "code": "24-1126",
+      "model": "NV36-300731"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Skyline",
+      "code": "24-757",
+      "model": "NV36-301589"
+    },
+    {
+      "bodypart": "FENDER LINER",
+      "name": "Skyline",
+      "code": "24-893",
+      "model": "NV36-302022"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Skyline",
+      "code": "24-1008",
+      "model": "NV36-750053"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Skyline",
+      "code": "24-635",
+      "model": "V36-402572"
+    },
+    {
+      "bodypart": "BEAM",
+      "name": "Skyline",
+      "code": "24-1569",
+      "model": "V36-500145"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Stream",
+      "code": "24-1290",
+      "model": "V36-551407"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "23-4813",
+      "model": "RNG-1014697"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Stream",
+      "code": "24-1179",
+      "model": "RN6-1014697"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Stream",
+      "code": "24-573",
+      "model": "RN6-1046580"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-431",
+      "model": "RNG-1055322"
+    },
+    {
+      "bodypart": "BEAM",
+      "name": "Stream",
+      "code": "24-1090",
+      "model": "RN6-1060351"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Stream",
+      "code": "24-1281",
+      "model": "RN6-1093011"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-1662",
+      "model": "RN6-3117753"
+    },
+    {
+      "bodypart": "BEAM",
+      "name": "Stream",
+      "code": "24-1209",
+      "model": "RN6-3118195"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Stream",
+      "code": "23-4940",
+      "model": "RN6-3118491"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Stream",
+      "code": "24-165",
+      "model": "RN6-3127641"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-1091",
+      "model": "RN7-1000987"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Stream",
+      "code": "24-1413",
+      "model": "RN7-1005032"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Stream",
+      "code": "24.1413",
+      "model": "RN7-1005032"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-1210",
+      "model": "RN7-1008909"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-1210",
+      "model": "RN7-1008909"
+    },
+    {
+      "bodypart": "BUMPER GRILLE",
+      "name": "Stream",
+      "code": "23-4789",
+      "model": "RN7-1009904"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-729",
+      "model": "RN7-3401272"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-150",
+      "model": "RN8-1000141"
+    },
+    {
+      "bodypart": "BUMPER &GRILLE",
+      "name": "Stream",
+      "code": "24-150",
+      "model": "RN8-1000141"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-437",
+      "model": "RN8-1007638"
+    },
+    {
+      "bodypart": "BUMPER &GRILLE",
+      "name": "Stream",
+      "code": "24-1079",
+      "model": "RN8-1012310"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-1079",
+      "model": "RNS-1012310"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Stream",
+      "code": "24-1591",
+      "model": "RN8-1012404"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-1591",
+      "model": "RN8-1012404"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-1673",
+      "model": "RN8-1012413"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Stream",
+      "code": "23-5227",
+      "model": "RN8-1021685"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Stream",
+      "code": "23-5227",
+      "model": "RN8-1021685"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "23-5227",
+      "model": "RN8-1021685"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-939",
+      "model": "RN8-3102283"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Stream",
+      "code": "24-939",
+      "model": "RN8-3102283"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Stream",
+      "code": "24-1790",
+      "model": "RN8-3105067"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-457",
+      "model": "RN8-3105363"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-457",
+      "model": "RN8-3105363"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-457",
+      "model": "RN8-3105363"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "24-1532",
+      "model": "RN9-1001064"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Stream",
+      "code": "23-5224",
+      "model": "RN9-1002232"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Stream",
+      "code": "23-5224",
+      "model": "RN9-1002232"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "23-5224",
+      "model": "RN9-1002232"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Stream",
+      "code": "24-832",
+      "model": "RN9-3000155"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Stream",
+      "code": "23-5226",
+      "model": "RN9-3100589"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Swift",
+      "code": "24-1221",
+      "model": "ZC21S-155946"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Trezia",
+      "code": "24.1374",
+      "model": "NCP125-6002273"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1365",
+      "model": "CWEFW-104164"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1365",
+      "model": "CWEFW-104164"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1365",
+      "model": "CWEFW-104164"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1365",
+      "model": "CWEFW-404164"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1365",
+      "model": "CWEFW-104164"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1592",
+      "model": "CWEFW-108915"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1101",
+      "model": "CWEFW-121208"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1101",
+      "model": "CWEFW-121208"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1101",
+      "model": "CWEFW-121208"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1101",
+      "model": "CWEFW-121203"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1101",
+      "model": "CWEFW-121208"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1649",
+      "model": "CWEFW-122271"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1649",
+      "model": "CWEFW-122271"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1533",
+      "model": "CWEFW-130506"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1533",
+      "model": "CWEFW-130506"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1533",
+      "model": "CWEFW-130506"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1533",
+      "model": "CWEFW-130506"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1437",
+      "model": "CWEFW-143711"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24-1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": null,
+      "name": "Premacy",
+      "code": "24.1475",
+      "model": "CWEFW-147826"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1018",
+      "model": "NV26-300712"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1018",
+      "model": "NV26-300712"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1126",
+      "model": "NV36-300731"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-757",
+      "model": "N/36-301589"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1128",
+      "model": "NV36-301938"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1128",
+      "model": "NV36-301938"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1128",
+      "model": "NV36-301938"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1128",
+      "model": "NV36-301938"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-893",
+      "model": "NV36-302022"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-893",
+      "model": "NV36-302022"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-893",
+      "model": "NV36-302022"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-893",
+      "model": "NV36-302022"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1008",
+      "model": "NV36-750053"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1008",
+      "model": "NV36-750053"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1008",
+      "model": "NV36-750053"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1008",
+      "model": "NV36-750053"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-635",
+      "model": "V36-402572"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24.635",
+      "model": "V36-402572"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-635",
+      "model": "V36-402572"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1569",
+      "model": "V36-500145"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1290",
+      "model": "V36-551407"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1290",
+      "model": "V36-551407"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "23-4813",
+      "model": "RN6-1014697"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "23-4813",
+      "model": "RNG-1014697"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1179",
+      "model": "RN6-1046580"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1179",
+      "model": "RN6-1046580"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-573",
+      "model": "RN6-1055322"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-431",
+      "model": "RN6-1060851"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1090",
+      "model": "RN6-1093011"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1090",
+      "model": "RN6-1093011"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1281",
+      "model": "RN6-3102337"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1662",
+      "model": "RN6-3117753"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "24-1209",
+      "model": "RN6-311819"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "23-4940",
+      "model": "RN6-311849"
+    },
+    {
+      "bodypart": null,
+      "name": "Skyline",
+      "code": "23-4940",
+      "model": "RN6-311849"
+    },
+    {
+      "bodypart": null,
+      "name": "Stream",
+      "code": "24-1101",
+      "model": "CWEFW-121203"
+    },
+    {
+      "bodypart": null,
+      "name": "Stream",
+      "code": "24-635",
+      "model": "V36-402572"
+    },
+    {
+      "bodypart": null,
+      "name": "Stream",
+      "code": "24-1569",
+      "model": "V36-500145"
+    },
+    {
+      "bodypart": null,
+      "name": "Stream",
+      "code": "24-1281",
+      "model": "RN6-3102337"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Impreza 4",
+      "code": "24-1612",
+      "model": "GJ7-011382"
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Impreza G4",
+      "code": "24-1257",
+      "model": "ZE2-124403"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Insight",
+      "code": "24-1317",
+      "model": "ZE2-124403"
+    },
+    {
+      "bodypart": "DOOR MIRROR",
+      "name": "Insight",
+      "code": "24-1317",
+      "model": "ZE2-124403"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Insight",
+      "code": "24-1317",
+      "model": "ZE2-124403"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Insight",
+      "code": "24-1528",
+      "model": "CWEFWN-106926"
+    },
+    {
+      "bodypart": "GRILLE",
+      "name": "Insight",
+      "code": "24-1528",
+      "model": "CWEFWN-106926"
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Lafesta",
+      "code": "24-1337",
+      "model": "CWFEWN-103250"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Lafesta",
+      "code": "24.1337",
+      "model": "CWFFWN-103250"
+    },
+    {
+      "bodypart": "TAIL LAMP",
+      "name": "Legacy B4",
+      "code": "24-1265",
+      "model": "BL5-035416"
+    },
+    {
+      "bodypart": "IGNITION &KEY",
+      "name": "MPY",
+      "code": "24-1152",
+      "model": "LY3P-154897"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "MPV",
+      "code": "24-1152",
+      "model": "LY3P-154897"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "MPV",
+      "code": "24-1152",
+      "model": "LY3P-154897"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "MPY",
+      "code": "24-1725",
+      "model": "LY3P-204258"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "MPV",
+      "code": "24-1619",
+      "model": "LY3P-204347"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "MPY",
+      "code": "24-467",
+      "model": "LY3P-214092"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "MPV",
+      "code": "24-467",
+      "model": "LY3P-214092"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "MPV",
+      "code": "23-5165",
+      "model": "LY3P-219902"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "MPV",
+      "code": "23-5165",
+      "model": "LY3P-219902"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-491",
+      "model": "RB3-1004211"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Odyssey",
+      "code": "24-491",
+      "model": "RB3-1004211"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-491",
+      "model": "RB3-1004211"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Odyssey",
+      "code": "24-1023",
+      "model": "RB3-1011112"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-1023",
+      "model": "RB3-1011112"
+    },
+    {
+      "bodypart": "BUMPER(REAR)",
+      "name": "Odyssey",
+      "code": "24-1137",
+      "model": "RB3-1011171"
+    },
+    {
+      "bodypart": "BUMPER(REAR)",
+      "name": "Odyssey",
+      "code": "24-1137",
+      "model": "RB3-1011171"
+    },
+    {
+      "bodypart": "BEAM",
+      "name": "Odyssey",
+      "code": "24-1137",
+      "model": "RB3-1011171"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Odyssey",
+      "code": "24-1137",
+      "model": "RB3-1011171"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "23-5026",
+      "model": "RB3-1022837"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Odyssey",
+      "code": "23-5026",
+      "model": "RB3-1022837"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-563",
+      "model": "RB3-1114818"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Odyssey",
+      "code": "24-563",
+      "model": "RB3-1114818"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-178",
+      "model": "RB3-1117231"
+    },
+    {
+      "bodypart": "BUMPER(REAR)",
+      "name": "Odyssey",
+      "code": "24-178",
+      "model": "RB3-1117231"
+    },
+    {
+      "bodypart": "BUMPER(REAR) BEAM",
+      "name": "Odyssey",
+      "code": "23-5052",
+      "model": "RB3-1117314"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Odyssey",
+      "code": "23-5231",
+      "model": "RB3-1119331"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-951",
+      "model": "RB3-1123504"
+    },
+    {
+      "bodypart": "BUMPER&GRILLE",
+      "name": "Odyssey",
+      "code": "23-5049",
+      "model": "RB3-1201809"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "23-5049",
+      "model": "RB3-1201809"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Odyssey",
+      "code": "24.1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Odyssey",
+      "code": "24-1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "WASHER UNIT",
+      "name": "Odyssey",
+      "code": "24-1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "DOOR MIRROR",
+      "name": "Odyssey",
+      "code": "24.1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "NOSE CUT",
+      "name": "Odyssey",
+      "code": "24.1062",
+      "model": "RB4-1000102"
+    },
+    {
+      "bodypart": "BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-210",
+      "model": "RB4-1001068"
+    },
+    {
+      "bodypart": "BUMPER(REAR)",
+      "name": "Odyssey",
+      "code": "24-210",
+      "model": "RB4-1001068"
+    },
+    {
+      "bodypart": "DOOR MIRROR",
+      "name": "Odyssey",
+      "code": "23-4756",
+      "model": "RB4-1001390"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Odyssey",
+      "code": "23-4756",
+      "model": "RB4-1001390"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Odyssey",
+      "code": "24-436",
+      "model": "RB4-1101113"
+    },
+    {
+      "bodypart": "FENDER",
+      "name": "Odyssey",
+      "code": "24-436",
+      "model": "RB4-1101113"
+    },
+    {
+      "bodypart": "FRONT BUMPER",
+      "name": "Odyssey",
+      "code": "24-436",
+      "model": "RB4-1101113"
+    },
+    {
+      "bodypart": "FRONT BUMPER BEAM",
+      "name": "Premacy",
+      "code": "24-1639",
+      "model": "RB4-101113"
+    },
+    {
+      "bodypart": "HEAD LAMP",
+      "name": "Premacy",
+      "code": "23-4784",
+      "model": "CREW-16959"
+    },
+    {
+      "bodypart": "REAR BUMPER",
+      "name": "Premacy",
+      "code": "24-1460",
+      "model": "CREW-332636"
+    },
+    {
+      "bodypart": "REAR BUMPER BEAM",
+      "name": "Premacy",
+      "code": "CREW-344069",
+      "model": "CREW-344069"
+    }
+  ]
+}
