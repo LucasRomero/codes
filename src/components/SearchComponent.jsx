@@ -43,7 +43,7 @@ const SearchComponent = () => {
         {results.length > 0
           ? results.map((result, index) => (
               <div key={index}>
-                Body Part: {result.bodypart}: {result.name} {result.model}
+               Code: {result.code} Body Part: {result.bodypart}: {result.name} {result.model}
               </div>
             ))
           : query && <div>No se encontraron resultados.</div>}
